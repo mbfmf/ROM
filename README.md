@@ -1,2 +1,2 @@
 # ROM
-Za seminarsko nalogo pri predmetu ROM bi si izbral letošnjo spomladansko maturo. Primere bi rešil in seveda prikazal.
+Za seminarsko nalogo pri predmetu ROM bi si izbral zaporedja. Predsatvil bi geometrijsko in aritmetično zaporedje. Vsakega bi tudi prikazal na primerih.
